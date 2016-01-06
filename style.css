@@ -1,0 +1,18 @@
+a {
+  text-decoration: underline;
+  color: red;
+  font-weight: bolder;
+  font-size: 48px;
+  font-style: oblique;
+  font-variant: large-caps;
+  font-kerning: none;
+  background: blue;
+  }
+
+#navmenu {
+  list-style: none;
+}
+
+.navitems {
+  margin: 10px;
+}
