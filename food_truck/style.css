@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:400,500italic,600,700,700italic);
+body {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-style: oblique;
+  background-image: url(Images/Dried_red_lentil.JPG);
+}
+#navlist  {
+  list-style: none;
+}
+#navlist li {
+  width: 300px
+  float: right;
+}
+nav {
+  float: right;
+}
+footer {
+  clear: right;
+  margin-top: 100px;
+}
